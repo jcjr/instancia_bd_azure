@@ -4,8 +4,6 @@
 O objetivo principal do repositório e descrever de forma clara e simples como configurar uma instância de banco de dados na 
 plataforma Microsoft Azure. Será descrito os passos a serem seguido para a criação do banco de dados.
 
-## PASSOS
-
 ## BÁSICO
 1o. Em "Detalhes do projeto" no campo "Grupo de recursos" você deve escolher a melhor opção para o que desejar a fazer. Está opção
 pode gerar custos adicionais não previstos no projeto.
